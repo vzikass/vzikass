@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vzikass&label=Profile%20views&color=000000&style=plastic" alt="vzikass" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=2500&pause=500&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello!%F0%9F%91%8B++;I'm+Ivkin+Vyacheslav!+;Golang+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=3500&pause=900&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello!%F0%9F%91%8B++;I'm+Ivkin+Vyacheslav!+;Golang+developer.;A+problem+solver.;Responsible+person.;Uh...+i+don't+know...;there+will+be+nothing+more+here...;Nothing+will+happen+here+for+sure!;don't+waste+your+time+and+move+on!;So..+you're+still+here%3F%3F;I'm+gonna+restart+the+loop+now.+;See+ya!+%3A)" />
 </h1>
 <div align="center">
 
