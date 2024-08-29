@@ -18,7 +18,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=markdown,postman" />
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vzikass&show_icons=true&locale=en" alt="vzikass" /></p>
