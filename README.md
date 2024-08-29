@@ -7,6 +7,8 @@
 
 🔭 I’m currently working on [AuthDB](https://github.com/vzikass/AuthDB)
 
+ 🌱 I’m currently learning **Docker, gRPC, Redis**
+ 
 📫 How to reach me **vzikass@icloud.com**
 
 <p align="left">
@@ -22,10 +24,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src=""/>
-  <img width=390 src="https://streak-stats.demolab.com?user=vzikass&theme=meta-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width=390 src="https://streak-stats.demolab.com?user=vzikass&theme=meta-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vzikass&show_icons=true&theme=radical" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=vzikass&show_icons=true&theme=radical"/>
 </div>
 
 <div align="center">
