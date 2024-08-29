@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vzikass&" alt="vzikass" /></p>
 
-<img src="https://raw.githubusercontent.com/vzikass/vzikass/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/vzikass/vzikass/blob/output/github-contribution-grid-snake.gif)
