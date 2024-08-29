@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Docker, gRPC, Redis**
  
-📫 How to reach me **t.me/vzikass**
+📫 How to reach me 👉 **[telegram](t.me/vzikass)** 👈
 
 <p align="left">
 
