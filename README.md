@@ -18,4 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vzikass&" alt="vzikass" /></p>
 
-![snake gif](https://github.com/vzikass/vzikass/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vzikass/vzikass/output/github-contribution-grid-snake.svg" />
