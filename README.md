@@ -14,11 +14,15 @@
 <p align="left">
 
 </div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Things I code with ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=markdown,postman" />
+    <div>
+        <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,git" />
+    </div>
+    <div style="margin-top: 20px;"> 
+        <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown" />
+    </div>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
