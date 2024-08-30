@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on [AuthDB](https://github.com/vzikass/AuthDB)
 
- 🌱 I’m currently learning **Docker, gRPC, Redis**
+ 🌱 I’m currently learning **Docker, Kafka**
  
 📫 How to reach me 👉 **[telegram](t.me/vzikass)** 👈
 
