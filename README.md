@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on [AuthDB](https://github.com/vzikass/AuthDB)
 
- 🌱 I’m currently learning **Docker, Kafka**
+🌱 I’m currently learning **Kafka** <img src="https://skillicons.dev/icons?i=kafka" style="width: 25px; height: 23px; vertical-align: middle;" />
  
 📫 How to reach me 👉 **[telegram](t.me/vzikass)** 👈
 
