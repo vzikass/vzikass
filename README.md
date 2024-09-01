@@ -21,7 +21,7 @@
         <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,git" />
     </div>
     <div style="margin-top: 20px;"> 
-        <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown,kubernetes,nginx" />
     </div>
 </div>
 
