@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Kafka** <img src="https://skillicons.dev/icons?i=kafka" style="width: 25px; height: 23px; vertical-align: middle;" />
  
-📫 How to reach me 👉 **[telegram](t.me/vzikass)** 👈
+📫 How to reach me 👉 **[telegram](https://t.me/vzikass)** 👈
 
 <p align="left">
 
