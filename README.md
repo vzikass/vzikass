@@ -18,10 +18,10 @@
 <br/>
 <div align="center">
     <div>
-        <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,git,kafka" />
+        <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,gita" />
     </div>
     <div style="margin-top: 20px;"> 
-        <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown,kubernetes,nginx" />
+        <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown,nginx" />
     </div>
 </div>
 
