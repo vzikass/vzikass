@@ -18,7 +18,7 @@
 <br/>
 <div align="center">
     <div>
-        <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,gita" />
+        <img src="https://skillicons.dev/icons?i=golang,docker,postgres,mysql,github,git" />
     </div>
     <div style="margin-top: 20px;"> 
         <img src="https://skillicons.dev/icons?i=postman,html,css,githubactions,markdown,nginx" />
